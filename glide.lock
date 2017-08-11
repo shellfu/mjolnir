@@ -1,0 +1,22 @@
+hash: 8409853a43b7a8db969409d874da08fa91eb9c5b2a132dccf9e534416ecdefe5
+updated: 2017-08-11T14:56:18.856315674-06:00
+imports:
+- name: github.com/boltdb/bolt
+  version: 2f1ce7a837dcb8da3ec595b1dac9d0632f0f99e8
+- name: github.com/fatih/color
+  version: 570b54cabe6b8eb0bc2dfce68d964677d63b5260
+- name: github.com/mattn/go-colorable
+  version: 5411d3eea5978e6cdc258b30de592b60df6aba96
+  repo: https://github.com/mattn/go-colorable
+- name: github.com/mattn/go-isatty
+  version: 57fdcb988a5c543893cc61bce354a6e24ab70022
+  repo: https://github.com/mattn/go-isatty
+- name: github.com/mattn/go-runewidth
+  version: 97311d9f7767e3d6f422ea06661bc2c7a19e8a5d
+- name: github.com/olekukonko/tablewriter
+  version: be5337e7b39e64e5f91445ce7e721888dbab7387
+- name: golang.org/x/sys
+  version: 493114f68206f85e7e333beccfabc11e98cba8dd
+  subpackages:
+  - unix
+testImports: []
