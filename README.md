@@ -2,6 +2,13 @@
 
 Mjolnir is a simple command-line utility to work with BoltDB from the CLI. I wrote this as I found myself wanting to make quick entries on my terminal without having to work with golang directly. 
 
+The default output for Mjolnir is markdown to stdout.
+
+## Installation
+```bash
+go get -u github.com/shellfu/mjolnir
+```
+
 ## Examples
 **Show Buckets**
 ```bash
