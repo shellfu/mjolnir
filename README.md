@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/shellfu/mjolnir)](https://goreportcard.com/report/github.com/shellfu/mjolnir)
+
 # Mjolnir
 
 Mjolnir is a simple command-line utility to work with BoltDB from the CLI. I wrote this as I found myself wanting to make quick entries on my terminal without having to work with golang directly. 
